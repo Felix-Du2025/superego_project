@@ -43,6 +43,7 @@ const channels = [
   { name: "LinkedIn", tone: "Career", color: "from-sky-400 to-cyan-200" },
   { name: "Weibo", tone: "Trend", color: "from-red-400 to-orange-300" },
   { name: "TikTok", tone: "Hook", color: "from-zinc-100 to-cyan-200" },
+  { name: "Douyin", tone: "Viral", color: "from-slate-200 to-fuchsia-200" },
   { name: "Kuaishou", tone: "Life", color: "from-orange-300 to-amber-200" },
   { name: "Red Note", tone: "Seed", color: "from-rose-400 to-pink-200" },
   { name: "Twitter", tone: "Sharp", color: "from-zinc-200 to-blue-200" },
